@@ -1,0 +1,5 @@
+D:\Programming\Practice\C#\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Programming\Practice\C#\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+D:\Programming\Practice\C#\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+D:\Programming\Practice\C#\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+D:\Programming\Practice\C#\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
